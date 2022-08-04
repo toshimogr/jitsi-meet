@@ -955,7 +955,7 @@
     "toolbar": {
         "Settings": "設定",
         "accessibilityLabel": {
-            "Settings": "設定の切り替え",
+            "Settings": "設定の切りネットワーク替え",
             "audioOnly": "音声のみの切り替え",
             "audioRoute": "オーディオデバイスの選択",
             "boo": "ブーイング",
@@ -1135,7 +1135,7 @@
         "adjustFor": "次のように調整:",
         "audioOnly": "音声のみ",
         "audioOnlyExpanded": "音声のみモードにいます。このモードではオーディオと画面の共有のみを受信します。",
-        "bestPerformance": "最高速度",
+        "bestPerformance": "高パフォーマンス",
         "callQuality": "ビデオの品質",
         "hd": "HD",
         "hdTooltip": "高画質ビデオの視聴",
